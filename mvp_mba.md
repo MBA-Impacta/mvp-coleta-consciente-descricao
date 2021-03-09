@@ -89,3 +89,33 @@ https://reactnative.dev/
 
 react js
 https://reactjs.org/
+
+
+##Resumo
+Kanban
+
+O kanban utiliza sistema de cartões de cores para designar e especificar tarefas, aprimorando a administração e sinalizando o controle de fluxos, evidenciando as tarefas que devem ser feitas e as que já estão concluídas e a movimentação das tarefas. As fases são determinadas por to do (por fazer), doing (fazendo/em execução) e done (feito/concluído). 
+
+A escolha dessa metodologia foi escolhida para ficar mais fácil a demonstração das etapas das tarefas, designando para cada participante a tarefa a executar em que status ela se encontra, dessa forma fica mais fácil a troca de informação para desta forma sincronizar o conteúdo para finalizar o material final.
+
+
+Tecnologias
+
+A escolha das tecnologias se deve ao fato de o sistema possa ser usado nas plataformas web e mobile, por ser uma plicação para o usuário final  que terá ter fácil acesso, desta forma o sistema terá de ficar disponível 24/7. 
+
+Para o front foi escolhido os fraeworks vue e bootstrap, que facilita na hora de implementar os componentes visuais e fazer a integração com backend e a utilização das funções, para aperfeiçoamento do layout será utilizado html e css.
+
+Para o back utilizará java/kotlin, para integração com base de dados, chamadas de api e controle de microserviços, se optou por esta maneira para não utilizar um sdk integrado no qual existe algumas limitações de uso desse modo também caso seja necessário pode se desacoplar uma parte do sistema que caso não esteja tendo um bom desempenho posso ser trocado por uma api ou tecnologia mais nova ou com melhor desempenho.
+
+As base de dados utilizadas para o projeto serão postgress/mysql banco de dados relacionais que no formato sql sendo bancos estáticos e de fácil utilização será a fonte de dados principal, saída de dados e armazenamento final. Enquanto isso o mongo/db será utilizado por ser nosql e cross platform, ele fará uma ponte a base de dados e backend, sendo utilizado na passagem de dados de entrada do usuário no sistema e a visualização de dados no front end da aplicação.
+
+
+
+Descarte de pilha 
+
+A escolha do tema tem como objetivo desenvolver um sistema onde mostre os pontos de coleta para pilha para que seja feito o descarte apropriado deste material. Os principais motivos para escolha do tema é que se descartadas incorretamente causam grande perigo a natureza e riscos a saúde existem muitas causas mas principal está que metais pesado causam câncer e mutações genéticas. 
+
+O descarte errado delas podem causar acerações na cápsula sendo amassados, estourar deixando vazar o líquido tóxico, nesse processo a junção de resíduos ao longo do tempo contamina lençóis freáticos no qual prejudica a agricultura e hidrografia. 
+
+ Desta forma este projeto visa mostrar e informar as pessoas onde está localizados os pontos de coleta para o descarte apropriado visando evitar os problemas descritos que podem ocorrer caso não seja feito da maneira correta. Tendo em vista a preservação do meio ambiente e conscientização da população.
+
