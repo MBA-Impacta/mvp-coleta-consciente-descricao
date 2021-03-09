@@ -76,3 +76,16 @@ Fontes:
     https://www.ecycle.com.br/188-descarte-de-pilhas.html
     https://goo.gl/Ke5o8v (https://www.google.com/maps/d/u/0/viewer?hl=pt&mid=1wyqQ4uE-80x9BEkkv4en6UAQ_fU&ll=-23.530279686293518%2C-46.65500982784427&z=11)
     https://revistapegn.globo.com/Como-comecar/noticia/2016/06/5-passos-para-fazer-um-produto-minimo-viavel-mvp.html
+
+
+
+##frontend 
+
+https://firebase.google.com/docs/firestore
+
+react native 
+
+https://reactnative.dev/
+
+react js
+https://reactjs.org/
